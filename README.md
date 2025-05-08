@@ -102,10 +102,12 @@ For permission, partnership, or licensing discussions, contact the author direct
 
 **Developed by:** Param Panchal  
 **Project Name:** Searchr — Instroid Edition  
-**Instagram (Portfolio & Updates):** [@searchr.series](https://instagram.com/searchr.series)  
-**Business Contact:** [@searchr](https://instagram.com/searchr)
+**Instagram (Portfolio & Updates):** 
+**Business Contact:** [@_searchr_](https://instagram.com/_searchr_)
 
 ---
 
 **© 2025 Searchr. All rights reserved.**  
 This project is a conceptual design initiative and is not affiliated with any commercial app store or platform.
+
+Made with ❤️ by Param
